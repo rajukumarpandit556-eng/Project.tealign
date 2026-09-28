@@ -1,0 +1,6 @@
+{
+  "name": "Tealign - Real-World Teacher Marketplace",
+  "description": "Production-oriented two-sided teacher marketplace connecting educators, students, parents, and schools with verified credentials, custom schedule matching, and hiring workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
